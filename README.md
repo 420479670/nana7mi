@@ -1,2 +1,2 @@
 # nana7mi
-My first respository on GitHub
+My first respository on GitHub.
