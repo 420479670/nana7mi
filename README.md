@@ -1,2 +1,2 @@
-# nana7mi
+# test
 My first respository on GitHub.
